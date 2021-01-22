@@ -1,10 +1,12 @@
 # PFOS
    This project provides the code and results for 'Personal Fixations-Based Object Segmentation with Object Localization and Boundary Preservation', IEEE TIP 2021. [Paper link](https://ieeexplore.ieee.org/document/9298925).
+   
    Our code is implemented based on the Caffe of Amulet. You can first install and compile the caffe according to our previous work [CFPS](https://github.com/MathLee/CFPS) or [original Amulet](https://github.com/Pchank/caffe-sal). 
 
 
 # PFOS Dataset
    We build a new dataset based on OSIE dataset for 'Personal Fixations-based Object Segmentation' (PFOS) task, you can downlown the PFOS dataset [here](https://pan.baidu.com/s/18_Cc2NmbUdhYEaLX2dEHCQ&shfl=sharepset).
+   
    PFOS dataset contains 700 images and 10,500 free-view personal fixation maps, each image has 15 personal fixation maps from 15 subjects and the transformed binary groundtruths.It is divided into training set (600 images with 9,000 free-view personal fixation maps) and testing set (100 images with 1,500 free-view personal fixation maps).
 
 
