@@ -5,18 +5,18 @@
 
 
 # PFOS Dataset
-   We build a new dataset based on OSIE dataset for 'Personal Fixations-based Object Segmentation' (PFOS) task, you can downlown the PFOS dataset [here](https://pan.baidu.com/s/18_Cc2NmbUdhYEaLX2dEHCQ&shfl=sharepset).
+   We build a new dataset based on OSIE dataset for 'Personal Fixations-based Object Segmentation' (PFOS) task, you can downlown the PFOS dataset [here](https://pan.baidu.com/s/1Ah7MmxSzYwFj5h_nLkYdLA) (code: npqn).
    
    PFOS dataset contains 700 images and 10,500 free-view personal fixation maps, each image has 15 personal fixation maps from 15 subjects and the transformed binary groundtruths.It is divided into training set (600 images with 9,000 free-view personal fixation maps) and testing set (100 images with 1,500 free-view personal fixation maps).
 
 
 # Results on PFOS Testing Set
-   We provide results of the compared 17 methods and our method on PFOS testing set: [PFOS testing](https://pan.baidu.com/s/1mXofcSOxrTyjOz-Z-nJtZA&shfl=sharepset).
+   We provide [results](https://pan.baidu.com/s/1cAyuMRWbcBdswegHdHdnEg) (code: jios) of the compared 17 methods and our method on PFOS testing set.
 
   
 # Testing
 1. Install and compile the caffe according to our previous work [CFPS](https://github.com/MathLee/CFPS) or [original Amulet](https://github.com/Pchank/caffe-sal). 
-2. Download the [trained model](https://pan.baidu.com/s/1PJucxmstCjF2Wt7pS9hFmQ&shfl=sharepset) (`FDMAttBlock_iter_30000.caffemodel`), and put it under `models/OLBPNet/`.
+2. Download the [trained model](https://pan.baidu.com/s/1XRcb1myPo4IryAPaiQ0QSg) (code: evk9) (`FDMAttBlock_iter_30000.caffemodel`), and put it under `models/OLBPNet/`.
 3. Put the PFOS testing set under `models/OLBPNet/PFOS/test/`.
 4. The measure code is under `matlab/OLBPNet_test/`, run `matlab/OLBPNet_test/test_model.m`.
 5. Results of PFOS testing set are under `models/OLBPNet/PFOS/binary_test/`.
