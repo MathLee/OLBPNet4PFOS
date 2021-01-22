@@ -40,7 +40,7 @@
 
 # Citation
         @ARTICLE{Li_2021_OLBP,
-                author = {Li, Gongyang and Liu, Zhi and Shi, Ran and Hu, Zheng and and Wei, Weijie and Wu, Yong and Huang, Mengke and Ling, Haibin},
+                author = {Gongyang Li and Zhi Liu and Ran Shi and Zheng Hu and Weijie Wei and Yong Wu and Mengke Huang and Haibin Ling},
                 title = {Personal Fixations-Based Object Segmentation With Object Localization and Boundary Preservation},
                 journal = {IEEE Transactions on Image Processing},
                 volume = {30},
