@@ -10,6 +10,16 @@
    PFOS dataset contains 700 images and 10,500 free-view personal fixation maps, each image has 15 personal fixation maps from 15 subjects and the transformed binary groundtruths.It is divided into training set (600 images with 9,000 free-view personal fixation maps) and testing set (100 images with 1,500 free-view personal fixation maps).
 
 
+# PFOS task and OLBPNet
+   PFOS task:
+
+   ![Image](https://github.com/MathLee/OLBPNet4PFOS/blob/master/Images/PFOS_task.png)
+
+   OLBPNet Overview:
+
+   ![Image](https://github.com/MathLee/OLBPNet4PFOS/blob/master/Images/Network_Overview.pdf)
+
+
 # Results on PFOS Testing Set
    We provide [results](https://pan.baidu.com/s/1cAyuMRWbcBdswegHdHdnEg) (code: jios) of the compared 17 methods and our method on PFOS testing set.
 
@@ -20,6 +30,11 @@
 3. Put the PFOS testing set under `models/OLBPNet/PFOS/test/`.
 4. The measure code is under `matlab/OLBPNet_test/`, run `matlab/OLBPNet_test/test_model.m`.
 5. Results of PFOS testing set are under `models/OLBPNet/PFOS/binary_test/`.
+
+# Performance
+
+   ![Image](https://github.com/MathLee/OLBPNet4PFOS/blob/master/Images/Performance.png)
+
 
 
 # Citation
