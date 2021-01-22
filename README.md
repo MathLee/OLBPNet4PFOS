@@ -17,7 +17,7 @@
 
    OLBPNet Overview:
 
-   ![Image](https://github.com/MathLee/OLBPNet4PFOS/blob/master/Images/Network_Overview.pdf)
+   ![Image](https://github.com/MathLee/OLBPNet4PFOS/blob/master/Images/Network_Overview.png)
 
 
 # Testing
