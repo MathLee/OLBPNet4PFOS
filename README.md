@@ -15,7 +15,7 @@
 # Testing
 1. Install and compile the caffe according to our previous work [CFPS](https://github.com/MathLee/CFPS) or [original Amulet](https://github.com/Pchank/caffe-sal). 
 2. Download the [trained model](https://pan.baidu.com/s/1PJucxmstCjF2Wt7pS9hFmQ&shfl=sharepset) (`FDMAttBlock_iter_30000.caffemodel`), and put it under `models/OLBPNet/`.
-3. The PFOS testing set is under `models/OLBPNet/PFOS/test/`.
+3. Put the PFOS testing set under `models/OLBPNet/PFOS/test/`.
 4. The measure code is under `matlab/OLBPNet_test/`, run `matlab/OLBPNet_test/test_model.m`.
 5. Results of PFOS testing set are under `models/OLBPNet/PFOS/binary_test/`.
 
