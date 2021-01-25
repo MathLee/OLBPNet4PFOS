@@ -1,5 +1,5 @@
 # PFOS
-   This project provides the code and results for 'Personal Fixations-Based Object Segmentation with Object Localization and Boundary Preservation', IEEE TIP 2021. [Paper link](https://ieeexplore.ieee.org/document/9298925).
+   This project provides the code and results for 'Personal Fixations-Based Object Segmentation with Object Localization and Boundary Preservation', IEEE TIP 2021. [IEEE Link](https://ieeexplore.ieee.org/document/9298925) or [arxiv Link](https://arxiv.org/abs/2101.09014).
    
    Our code is implemented based on the Caffe of Amulet. You can first install and compile the caffe according to our previous work [CFPS](https://github.com/MathLee/CFPS) or [original Amulet](https://github.com/Pchank/caffe-sal). 
 
