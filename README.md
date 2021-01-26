@@ -26,6 +26,7 @@
 3. Put the PFOS testing set under `models/OLBPNet/PFOS/test/`.
 4. The measure code is under `matlab/OLBPNet_test/`, run `matlab/OLBPNet_test/test_model.m`.
 5. Results of PFOS testing set are under `models/OLBPNet/PFOS/binary_test/`.
+6. The measure code is under `matlab/OLBPNet_test/Measure_all_FDM.m`.
 
 
 # Results on PFOS Testing Set
