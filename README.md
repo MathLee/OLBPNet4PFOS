@@ -13,11 +13,11 @@
 # PFOS task and OLBPNet
    PFOS task:
 
-   ![Image](https://github.com/MathLee/OLBPNet4PFOS/blob/master/Images/PFOS_task.png)
+   ![Image](https://github.com/MathLee/OLBPNet4PFOS/blob/main/Images/PFOS_task.png)
 
    OLBPNet Overview:
 
-   ![Image](https://github.com/MathLee/OLBPNet4PFOS/blob/master/Images/Network_Overview.png)
+   ![Image](https://github.com/MathLee/OLBPNet4PFOS/blob/main/Images/Network_Overview.png)
 
 
 # Testing
@@ -35,7 +35,7 @@
 
 # Performance
 
-   ![Image](https://github.com/MathLee/OLBPNet4PFOS/blob/master/Images/Performance.png)
+   ![Image](https://github.com/MathLee/OLBPNet4PFOS/blob/main/Images/Performance.png)
 
 
 
