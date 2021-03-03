@@ -38,6 +38,10 @@
 # Performance
 
    ![Image](https://github.com/MathLee/OLBPNet4PFOS/blob/main/Images/Performance.png)
+   
+   
+# Related works on this task 
+   (**NEUCOM_2019_CFPS**) [Constrained Fixation Point based Segmentation via Deep Neural Network](https://github.com/MathLee/CFPS).
 
 
 
