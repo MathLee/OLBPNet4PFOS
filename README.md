@@ -50,9 +50,9 @@
                 author = {Gongyang Li and Zhi Liu and Ran Shi and Zheng Hu and Weijie Wei and Yong Wu and Mengke Huang and Haibin Ling},
                 title = {Personal Fixations-Based Object Segmentation With Object Localization and Boundary Preservation},
                 journal = {IEEE Transactions on Image Processing},
+                year = {2021},
                 volume = {30},
-                pages = {1461-1475},
-                year = {2021}}
+                pages = {1461-1475},}
 
 
 If you encounter any problems with the code, want to report bugs, etc.
