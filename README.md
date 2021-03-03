@@ -12,8 +12,10 @@
 
 # PFOS task and OLBPNet
    PFOS task:
-
-   ![Image](https://github.com/MathLee/OLBPNet4PFOS/blob/main/Images/PFOS_task.png)
+   
+   <div align=center>
+   <img src="https://github.com/MathLee/OLBPNet4PFOS/blob/main/Images/PFOS_task.png">
+   </div>
 
    OLBPNet Overview:
 
